@@ -100,7 +100,7 @@ export default function Menu() {
             <Info size={14} />
             About
           </MenuItem>
-          <MenuItem id="link" href="https://financecn.medium.com">
+          <MenuItem id="link" href="https://medium.com/@financecn">
             <BookOpen size={14} />
             <TranslatedText translationId={10}>Docs</TranslatedText>
           </MenuItem>
