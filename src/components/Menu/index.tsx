@@ -112,7 +112,7 @@ export default function Menu() {
             <MessageCircle size={14} />
             <TranslatedText translationId={34}>Telegram</TranslatedText>
           </MenuItem>
-          <MenuItem id="link" href="https://info.finance.cn.com/">
+          <MenuItem id="link" href="https://financswap.info">
             <PieChart size={14} />
             Analytics
           </MenuItem>
